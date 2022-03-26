@@ -1,2 +1,2 @@
-meu_email = 'danielsp699@gmail.com'
-minha_senha = 'wvtulgmkudlwuvap'
+meu_email = 'SEU EMAIL'
+minha_senha = 'SUA SENHA'
