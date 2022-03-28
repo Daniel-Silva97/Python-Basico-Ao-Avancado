@@ -1,7 +1,0 @@
-[11/03/2022 17:36:31] Cupom 519 tem registros de NFC-e em branco na tabela movto
-e o XML da NFC-e nao foi encontrado para atualizacao
-Registros com campos faltantes:
-ID na movto:23
-	Campos:[nfce_env, nfce_emt_ctg, nfce_modelo, nfce_chave, nfce_aut_prot, nfce_aut_dthr, nfce_form_emissao, nfce_digest_val]ID na movto:24
-	Campos:[nfce_env, nfce_emt_ctg, nfce_modelo, nfce_chave, nfce_aut_prot, nfce_aut_dthr, nfce_form_emissao, nfce_digest_val]ID na movto:25
-	Campos:[nfce_env, nfce_emt_ctg, nfce_modelo, nfce_chave, nfce_aut_prot, nfce_aut_dthr, nfce_form_emissao, nfce_digest_val]
