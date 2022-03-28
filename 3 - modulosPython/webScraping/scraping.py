@@ -12,5 +12,5 @@ for pergunta in html.select('.s-post-summary'):
     titulo = pergunta.select_one('.s-link')
     data = pergunta.select_one('.relativetime')
     votos = pergunta.select_one('.s-post-summary--stats-item-number')
-    print(titulo.text, data.text, votos.text, sep='\t')
+    print(titulo.text, data.text, votos.text, sep='\t') # Exibindo a Pergunta, data e quantidade de votos
 
