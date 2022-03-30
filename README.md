@@ -15,4 +15,8 @@ Conteúdo do curso :books:
     <li><strong>Bônus:</strong> seções de HTML5 e CSS3</li>
     <li><strong>Bônus:</strong> seção de SQL com MySQL</li>
 </ul>
+</br>
+<div align="center">
+  <img title="SonarQube" alt="Dani-SonarQube" src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg">
+</div>
 
