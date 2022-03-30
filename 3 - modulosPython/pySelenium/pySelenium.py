@@ -17,7 +17,7 @@ class ChromeAuto:
     def acessa(self, site):
         self.chrome.get(site)
 
-    # Clicando no botão de login
+    # Clicando no botão de ‘login’
     def clicaSignIn(self):
         try:
             botaoSignIn = self.chrome.find_element_by_xpath('/html/body/div[1]/header/div/div[2]/div[2]/div[2]/a')
