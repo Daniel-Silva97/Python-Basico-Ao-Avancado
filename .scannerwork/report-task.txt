@@ -1,0 +1,6 @@
+projectKey=ws-python
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=ws-python
+ceTaskId=AX_bc2_it66ivwNwyldm
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX_bc2_it66ivwNwyldm
