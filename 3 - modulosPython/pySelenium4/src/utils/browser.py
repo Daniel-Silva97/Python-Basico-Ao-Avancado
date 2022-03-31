@@ -2,6 +2,8 @@ from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from time import sleep
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 
 # Caminho para a raiz do projeto
 # Parent volta uma pasta igual ao (../)
@@ -41,5 +43,8 @@ if __name__ == '__main__':
 
     # Utilizando o selenium
     browser.get('https://www.google.com/')
+    inputElement = browser.find_element(by=By.NAME, value='q')
+    inputElement.send_keys('Selenium')
+    inputElement.send_keys(Keys.ENTER)
     sleep(5)
     browser.quit()
